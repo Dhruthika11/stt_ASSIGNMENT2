@@ -1,0 +1,45 @@
+Project_name,Tool_name,CWE_ID,Number of Findings,Is_In_CWE_Top_25?
+qlib,Bandit,CWE-703,366,False
+qlib,Bandit,CWE-78,35,True
+qlib,Bandit,CWE-502,75,True
+qlib,Bandit,CWE-20,4,True
+qlib,Bandit,CWE-22,1,True
+qlib,Bandit,CWE-330,5,False
+qlib,Bandit,CWE-327,1,False
+qlib,Bandit,CWE-400,11,True
+qlib,Semgrep,CWE-78,5,True
+qlib,Semgrep,CWE-327,1,False
+qlib,Semgrep,CWE-319,6,False
+qlib,Snyk Code,CWE-502,7,True
+qlib,Snyk Code,CWE-916,1,False
+qlib,Snyk Code,CWE-79,2,True
+qlib,Snyk Code,CWE-23,7,False
+opentelemetry-python,Bandit,CWE-400,3,True
+opentelemetry-python,Bandit,CWE-703,83,False
+opentelemetry-python,Bandit,CWE-259,4,False
+opentelemetry-python,Bandit,CWE-330,49,False
+opentelemetry-python,Bandit,CWE-502,4,True
+opentelemetry-python,Bandit,CWE-78,11,True
+opentelemetry-python,Bandit,CWE-605,1,False
+opentelemetry-python,Semgrep,CWE-116,1,False
+opentelemetry-python,Semgrep,CWE-79,2,True
+opentelemetry-python,Semgrep,CWE-319,1,False
+opentelemetry-python,Semgrep,CWE-668,1,False
+opentelemetry-python,Snyk Code,CWE-547,1,False
+opentelemetry-python,Snyk Code,CWE-79,1,True
+opentelemetry-python,Snyk Code,CWE-798,3,False
+opentelemetry-python,Snyk Code,CWE-23,2,False
+opentelemetry-python,Snyk Code,CWE-918,1,True
+modin,Bandit,CWE-703,1497,False
+modin,Bandit,CWE-78,45,True
+modin,Bandit,CWE-400,1,True
+modin,Bandit,CWE-377,3,False
+modin,Bandit,CWE-502,9,True
+modin,Bandit,CWE-330,4,False
+modin,Bandit,CWE-327,1,False
+modin,Bandit,CWE-89,13,True
+modin,Bandit,CWE-22,1,True
+modin,Semgrep,CWE-327,1,False
+modin,Snyk Code,CWE-78,1,True
+modin,Snyk Code,CWE-916,1,False
+modin,Snyk Code,CWE-23,4,False
